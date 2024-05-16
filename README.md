@@ -1,1 +1,1 @@
-# Helm-Netfli-Clone
+# Helm-Netflix-Clone
