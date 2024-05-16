@@ -55,6 +55,10 @@ Login to your grafana console
 
 ![image](https://github.com/AnukratiRawal14/Helm-Netfli-Clone/assets/69693530/a7b80580-9a3f-467b-870c-1b10bfdda5d3)
 
+![image](https://github.com/AnukratiRawal14/Helm-Netfli-Clone/assets/69693530/e2544246-919c-4e43-a119-cff043416925)
+
+![image](https://github.com/AnukratiRawal14/Helm-Netfli-Clone/assets/69693530/3e57064f-570a-402c-884a-d9e0f6814e95)
+
 ![image](https://github.com/AnukratiRawal14/Helm-Netfli-Clone/assets/69693530/df764f1e-00ba-471b-9674-fba4cf10e4b2)
 
 ![image](https://github.com/AnukratiRawal14/Helm-Netfli-Clone/assets/69693530/86f5526e-fc2f-4c66-97c6-edbf8ede7b96)
