@@ -50,3 +50,18 @@ Login to your grafana console
 <li>Navigate to Connections >> Add connections >> Search for 'Prometheus' >> Add New Data Sources</li>
 <li>Provide Name, Server URL(LoadBalancer of Prometheus Server URL) and Click on 'save & test'</li>
 <li>Navigate to Home >> Dashboards >> New Dashboard >> Import Dashboard and provide the ID of the the desired dashboard from https://grafana.com/grafana/dashboards/</li>
+
+![image](https://github.com/AnukratiRawal14/Helm-Netfli-Clone/assets/69693530/5fcdc924-dfa7-40c3-9e1b-c3923bd19e07)
+
+![image](https://github.com/AnukratiRawal14/Helm-Netfli-Clone/assets/69693530/a7b80580-9a3f-467b-870c-1b10bfdda5d3)
+
+![image](https://github.com/AnukratiRawal14/Helm-Netfli-Clone/assets/69693530/df764f1e-00ba-471b-9674-fba4cf10e4b2)
+
+![image](https://github.com/AnukratiRawal14/Helm-Netfli-Clone/assets/69693530/86f5526e-fc2f-4c66-97c6-edbf8ede7b96)
+
+![image](https://github.com/AnukratiRawal14/Helm-Netfli-Clone/assets/69693530/0612c2fb-ce6f-4aa0-936a-40584cbe6688)
+
+![image](https://github.com/AnukratiRawal14/Helm-Netfli-Clone/assets/69693530/b236c35b-6dd3-4b62-9522-3b0302672234)
+
+
+
